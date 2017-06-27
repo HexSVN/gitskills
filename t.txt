@@ -1,1 +1,2 @@
 testing of --no-ff for git merge
+insert some information to confirm this is new record.
